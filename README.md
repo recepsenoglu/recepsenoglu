@@ -24,7 +24,5 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=recepsenoglu&theme=halloween&border_radius=19)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepsenoglu&show_icons=true&locale=en" alt="recepsenoglu" /></p>
-
 
 
