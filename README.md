@@ -4,7 +4,6 @@
 - 📫 How to reach me? 
 - My e-mail adress: recep.senoglu.34@gmail.com
 - My Linkedin profile: https://www.linkedin.com/in/recep-oguzhan-senoglu/
-- ⚡ Fun fact I have a brain tumor
 
 
 <!---
