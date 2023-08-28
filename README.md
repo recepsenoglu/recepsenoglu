@@ -22,7 +22,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=recepsenoglu&theme=halloween&border_radius=19)
-
-
 
