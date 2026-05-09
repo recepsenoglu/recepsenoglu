@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Swift UIKit
 - 📫 How to reach me?
-- My website: https://recepsenoglu.github.io
+- My website: https://recepsenoglu.com
 - My e-mail adress: recep.senoglu.34@gmail.com
 - My Linkedin profile: https://www.linkedin.com/in/recep-oguzhan-senoglu/
 
